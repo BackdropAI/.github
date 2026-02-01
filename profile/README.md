@@ -1,12 +1,13 @@
 # Commit
 
-**Live copilot for your sales calls.**
+**Instant assistant for your sales calls.**
 
-Commit gives sales reps real-time, context-aware answers during live customer calls — no more "let me get back to you" moments. The AI learns from three sources: verified industry content, your actual sales calls, and your company's internal documentation.
+Commit gives sales reps instant, context-aware answers during live customer calls — no more "let me get back to you" moments AND deeper discovery questions. to help all seller perform like the top performer. The AI learns from three sources: verified industry content, your actual sales calls, and your company's internal documentation.
 
 - Handle complex technical questions in real-time
 - Generate deeper discovery questions based on call context and market intelligence
-- Eliminate manual data entry — reps spend more time selling
+- Everyone performs like the top performer
+
 
 [askcommit.com](https://www.askcommit.com)
 
