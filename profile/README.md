@@ -10,6 +10,7 @@ Backdrop gives sales reps instant, context-aware answers during live customer ca
 
 
 [getbackdrop.ai](https://www.getbackdrop.ai/)
+[Linkedin](https://www.linkedin.com/company/backdrop-ai)
 
 ## Open Source
 
