@@ -11,14 +11,3 @@ Backdrop gives sales reps instant, context-aware answers during live customer ca
 
 [Website](https://www.getbackdrop.ai/)
 [Linkedin](https://www.linkedin.com/company/backdrop-ai)
-
-## Open Source
-
-### [AI On-Call Agent](https://github.com/BackdropAI/ai-oncall-agent)
-
-Autonomous production error monitoring and resolution as reusable GitHub Actions. Scans Datadog for errors, creates deduplicated Linear tickets, and opens fix PRs — all without human intervention.
-
-```yaml
-- uses: BackdropAI/ai-oncall-agent@v1          # Monitor errors
-- uses: BackdropAI/ai-oncall-agent/resolve@v1  # Auto-fix issues
-```
